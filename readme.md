@@ -6,7 +6,7 @@ by [Richard McDaniel](https://github.com/rmcdaniel)
 
 Based on [dianabot](https://github.com/maxrpeterson/dianabot) by [Max R. Peterson](https://github.com/maxrpeterson)
 
-Based on [GA-Bot](https://github.com/bryanmytko/ga-bot) abd [Colin Hart](https://github.com/colintherobot)
+Based on [GA-Bot](https://github.com/bryanmytko/ga-bot) and [Colin Hart](https://github.com/colintherobot)
 
 This version updated & maintained by [Christine Yi](https://github.com/hizegi)
 
@@ -19,7 +19,7 @@ Star Wars facts from [Buzzfeed](https://www.buzzfeed.com/awesomer/facts-you-prob
 1. Set the api key in a .env file to an environment variable `SLACKBOT_KEY`
   - slack Christine for apikey
 1. Invite @yoda to whatever ga-students channel you want to use it in.
-1. `cd` into `ga_bot` and run `node app.js` to start the bot.
+1. Run `node app.js` to start the bot.
 1. Communicate with the bot by typing commands directly to the bot via mention or private message in Slack.
 1. There are permission levels for certain commands. These can be set with environment variables `TA_ID` and `ADMIN_ID`
 1. Run `@yoda what is my user id?` to get your Slack id
