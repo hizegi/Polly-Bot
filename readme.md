@@ -6,7 +6,9 @@ by [Richard McDaniel](https://github.com/rmcdaniel)
 
 Based on [dianabot](https://github.com/maxrpeterson/dianabot) by [Max R. Peterson](https://github.com/maxrpeterson)
 
-Based on [GA-Bot](https://github.com/bryanmytko/ga-bot) and [Colin Hart](https://github.com/colintherobot)
+Based on [GA-Bot](https://github.com/bryanmytko/ga-bot) by [Bryan Mtko](https://github.com/bryanmytko)
+
+Based on [GA-Bot](https://github.com/colintherobot/ga-bot) by [Colin Hart](https://github.com/colintherobot)
 
 This version updated & maintained by [Christine Yi](https://github.com/hizegi)
 
