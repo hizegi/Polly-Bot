@@ -17,7 +17,7 @@ Star Wars facts from [Buzzfeed](https://www.buzzfeed.com/awesomer/facts-you-prob
 -----
 # Setup
 
-1. Slack bot's name is [@yoda](https://en.wikipedia.org/wiki/yoda)
+1. Slack bot's name is `@polly`
 1. Set the api key in a .env file to an environment variable `SLACKBOT_KEY`
   - slack Christine for apikey
 1. Invite @polly to whatever ga-students channel you want to use it in.
