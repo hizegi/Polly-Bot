@@ -118,7 +118,7 @@ CustomBot.prototype.next = function(){
   if(currentStudent){
     this.bot.sendMessage(
       this.channel,
-      `<@${currentStudent.id}>, up next, you are! In Zoom, we meet. \n
+      `<@${currentStudent.id}>, meet me in Zoom. \n
        ${this.prettyQueue()}`
     );
 

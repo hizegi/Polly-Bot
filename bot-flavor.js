@@ -7,25 +7,30 @@ var bot_flavor = {
   "attendance_cleared": "Attendance cleared",
   "attendance_zero": null,
   "greeting": `
-              Hello. I dont believe 
+              Hello. I dont believe
               we have been introduced.
-              R2-D2? A pleasure 
-              to meet you. I am C-3PO, 
+              R2-D2? A pleasure
+              to meet you. I am C-3PO,
               Human-Cyborg Relations.
               `,
   "quotes": [
-    "'Ewok' was never spoken in the original trilogy.",
-    "'N Sync nearly had a cameo in Attack of the Clones.",
-    "Depending on what movie you're watching, Yoda has a different number of toes.",
-    "Ewoks speak a combination of Tibetan and Nepalese.",
-    "David Prowse, the actor who portrayed Darth Vader (in form, not voice), is banned from attending official Star Wars conventions.",
-    "The tiny South Pacific island of Niue accepts limited edition Star Wars collectible coins as real money.",
-    "Yoda's species has never been named. Mystery, it is.",
-    "The communicator Qui-Gon Jinn uses is actually an altered Gillete Sensor Excel women’s razor.",
-    "Tupac Shakur auditioned for the role of Mace Windu.",
-    "In an early draft of the Star Wars story, R2-D2 speaks standard English, and is actually kind of a jerk.",
-    "George Lucas came up with the name R2-D2 while filming American Graffiti. A member of the sound crew asked him to retrieve reel #2 of the second dialogue track, which in the parlance would be, 'Could you get R2-D2 for me?'"
-  ],
+    "BWAAAK Did you read the docs?",
+    "SQWUAK check the docs!",
+    "BRAAAAK Did you ask your buddy?",
+    "What is the most favorite pirating song, surprisingly? Don’t cry for me, Arrrrrrgentina...",
+    "Have you ever heard any good pirate jokes? Well neither have ayyye!",
+    "How do pirates communicate with each other? With an Aye phone.",
+    "What is regularly given to the sea around 8 am, if the digestion is right? The captain’s log.",
+    'Which side of his boat does a good pirate try to avoid? The outside.',
+    "What would you call a pirate with 4 eyes?  An iiiirate.",
+    "Why are pirates bad at cards? It’s kind of hard to play when you’re sitting on the deck.",
+    "What does the pirate say when he steps on a Lego? Arrrrrgh!!!",
+    "To err is human. To arr is seriously pirate.",
+    "How does a pirate declutter his ship? By having a yarrrrd sale.",
+    "Wooden pegs and hooks are really expensive these days. They cost an arm and a leg.",
+    "Why are pirates good programmers? Because they spend months and months at C.",
+  "Have you heard about the new pirate movie? It's rated AARRRRRR!"
+],
 };
 
 module.exports = bot_flavor;
